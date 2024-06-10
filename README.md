@@ -20,7 +20,7 @@ Smooth navigation
 
 Installation 
 
-Clone the repository: git clone https://github.com/username/my-web- app.git 
+Clone the repository: git clone https://github.com/St10450914/PRACTICUM-EXAM 
 
 Run via Emulator. 
 
